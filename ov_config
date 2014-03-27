@@ -1,0 +1,8 @@
+worlds["Zebes"] = "/home/motherbrain/minecraft/mc_vanilla/world"
+
+renders["normalrender"] = {
+	"world": "Zebes",
+	"title": "Zebes",
+}
+
+outputdir = "/home/motherbrain/overviewer/map"
