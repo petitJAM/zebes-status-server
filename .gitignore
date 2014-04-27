@@ -1,5 +1,6 @@
-map/*
+*/map/*
 *.swp
+static/*
 
 #========Defaults=========#
 

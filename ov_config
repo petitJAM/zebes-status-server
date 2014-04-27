@@ -5,4 +5,4 @@ renders["normalrender"] = {
 	"title": "Zebes",
 }
 
-outputdir = "/home/motherbrain/overviewer/map"
+outputdir = "/home/motherbrain/overviewer/static/map"
