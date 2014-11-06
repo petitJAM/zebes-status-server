@@ -1,4 +1,4 @@
-worlds["Zebes"] = "/home/motherbrain/minecraft/mc_vanilla/world"
+worlds["Zebes"] = "/home/motherbrain/minecraft/mc_WI/world"
 
 renders["normalrender"] = {
 	"world": "Zebes",
